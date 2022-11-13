@@ -1,0 +1,30 @@
+/** @format */
+
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.home {
+	width: 360px;
+	height: 750px;
+	display: flex;
+    
+
+	background: #0f112f;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-image: url('C:\Dsolve assignment\hello\src\images\back.png');
+}
+.logo1{
+    margin-bottom: 200px;
+
+
+}
+
+.img {
+position: absolute;
+bottom: 0px;
+left: 588px;
+}
